@@ -7,7 +7,7 @@ require (
 	github.com/groob/plist v0.0.0-20171013152701-7b367e0aa692
 	github.com/mitchellh/mapstructure v0.0.0-20171017171808-06020f85339e
 	github.com/urfave/cli/v2 v2.3.0
-	gopkg.in/cheggaaa/pb.v1 v1.0.18
+	gopkg.in/cheggaaa/pb.v1 v1.0.28
 	gopkg.in/yaml.v2 v2.2.8
 )
 
@@ -19,5 +19,6 @@ require (
 	github.com/russross/blackfriday/v2 v2.0.1 // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
+	golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 )
