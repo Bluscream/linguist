@@ -33,7 +33,7 @@ javacOptions ++= Seq("-source", "1.5", "-target", "1.5")
 scalacOptions += "-deprecation"
 
 // set the Scala version used for the project
-scalaVersion := "2.9.0-SNAPSHOT"
+scalaVersion := "2.9.3"
 
 // define the statements initially evaluated when entering 'console', 'console-quick', or 'console-project'
 initialCommands := """
