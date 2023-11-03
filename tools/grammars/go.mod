@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/golang/protobuf v0.0.0-20171113180720-1e59b77b52bf
-	github.com/groob/plist v0.0.0-20171013152701-7b367e0aa692
+	github.com/groob/plist v0.0.0-20220217120414-63fa881b19a5
 	github.com/mitchellh/mapstructure v0.0.0-20171017171808-06020f85339e
 	github.com/urfave/cli/v2 v2.3.0
 	gopkg.in/cheggaaa/pb.v1 v1.0.18
